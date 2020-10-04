@@ -1,16 +1,16 @@
 # Hello, I'm Piotr 👋
+## I'm a Front End Developer
 
-<!--
-**wojciechowski-piotr/wojciechowski-piotr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like creating new things, learning and solving problems, hence my passion for programming.
 
-Here are some ideas to get you started:
+### Skills and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main direction of development is front end. I also have experience in graphic design.
+
+:straight_ruler: HTML, CSS, SCSS, Bootstrap;
+
+:gear: JavaScript, React, Material UI, Webpack; 
+
+:pick: Git, Github, Terminal;
+
+:paintbrush: Figma, Photoshop, Illustrator;
