@@ -14,3 +14,9 @@ My main direction of development is front end. I also have experience in graphic
 :pick: Git, Github, Terminal;
 
 :paintbrush: Figma, Photoshop, Illustrator;
+
+### Contact
+
+Have you got a job offer or an interesting project for me? 
+
+Feel free to [E-MAIL ME](mailto:kontakt@piotr-wojciechowski.pl?subject=Github%20message).
