@@ -9,7 +9,7 @@ My main direction of development is front end. I also have experience in graphic
 
 :straight_ruler: HTML, CSS, SCSS, Bootstrap;
 
-:gear: JavaScript, React, Material UI, Webpack; 
+:gear: JavaScript, TypeScript, React, Redux, Material UI, Webpack; 
 
 :pick: Git, Github, Terminal;
 
