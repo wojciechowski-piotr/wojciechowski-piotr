@@ -1,5 +1,5 @@
 # Hello, I'm Piotr 👋
-## I'm a Front End Developer
+## I'm a Software Developer
 
 I like creating new things, learning and solving problems, hence my passion for programming.
 
