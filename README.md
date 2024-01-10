@@ -9,7 +9,11 @@ My main direction of development is front end. I also have experience in graphic
 
 :straight_ruler: HTML, CSS, SCSS, Bootstrap;
 
-:gear: JavaScript, React, Material UI; 
+:gear: JavaScript, React, Material UI, Python; 
+
+📅 SQL, T-SQL
+
+📊 Crystal Reports, Report Builder
 
 :pick: Git, Github, Terminal;
 
