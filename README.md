@@ -11,9 +11,9 @@ My main direction of development is front end. I also have experience in graphic
 
 :gear: JavaScript, React, Material UI, Python; 
 
-📅 SQL, T-SQL
+📅 SQL, T-SQL;
 
-📊 Crystal Reports, Report Builder
+📊 Crystal Reports, Report Builder;
 
 :pick: Git, Github, Terminal;
 
